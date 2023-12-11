@@ -1,0 +1,41 @@
+<html>
+<body>
+  <header> 
+<img class="icon" src="https://sozaic.com/wp-content/themes/sozaic/data/life444.png" height="70px" alt="">
+<h2 class="fish">Магазин      На головну Дай-тури</h2>
+<h1>Про заняття </h1>
+<img class="page" src="https://www.bobrlife.by/wp-content/uploads/2019/09/scuba-diver-1062895_960_720.jpg" height="300px">
+<h2 class="site">Наші особливості</h2>
+</header>  
+<main>
+
+<p>Ваша безпека, якісне навчання та комфортні умови - наш пріоритет
+і комфортні умови - наш пріоритет, тому:</p>
+
+
+<il> 
+<li>групи до 4-х осіб;
+</li>
+<li>працюємо цілодобово;
+</li>
+<li>індивідуальний підхід;
+</li>
+<li>видаємо сертифікат PADI;
+</li>
+</il>
+
+</main>
+<footer>  
+  <img src="https://learn.alg.academy/uploads/2021/01/scuba-diving-147683_1280_0_1611830444.png" height="150px"><img src="https://learn.alg.academy/uploads/2021/01/diving-goggles-159591_1280_0_1611830444.png" height="100px">
+<p>Тел</p>
+<p>Ел пошта</p>
+
+
+
+</footer>
+
+
+
+
+</body>
+</html>
